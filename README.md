@@ -5,7 +5,7 @@ I AM <strong>TUSHAR KANJARIYA<i>(Web Developer,Graphic Designer,Web Designer)</i
 
 
 This Project is about to used in real life where the shopping site is lived.
-here i am created a 3 pages like <i>productList.html, productDetail.html</i>
+here i am created a 3 pages like <i>index.html, product.html, productDetail.html</i>
 
 But the interesting part is : it's work in <strong>angularJS</strong>
 
