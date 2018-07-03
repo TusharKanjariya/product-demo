@@ -1,0 +1,23 @@
+<div class="container-fluid">
+    <div class="container">
+        <h1>{{particularProduct.name}}</h1>
+
+        <div class="row">
+            <div class="col-md-4 shadow-sm">
+                <img src="img/{{particularProduct.image}}" alt="" class="img-fluid">
+            </div>
+            <div class="col-md-8">
+                <p class="lead">{{particularProduct.name}}</p>
+                <p class="lead">Price <strong>${{particularProduct.price}}</strong></p>
+                <p class="lead">Description</p>
+                <p class="lead">{{particularProduct.description}}</p>
+
+                <button class="btn btn-success">Buy Now</button>
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <a href="#" class="btn btn-primary"> Back</a>
+        </div>
+    </div>
+</div>
