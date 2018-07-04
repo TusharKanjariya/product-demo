@@ -3,8 +3,6 @@
 Hello 
 I AM <strong>TUSHAR KANJARIYA<i>(Web Developer,Graphic Designer,Web Designer)</i></strong>
 
-<blockquote><b>See this Project as a Live Demo : [Click Here](designmart.000webhostapp.com/product-demo/) </b></blockquote>
-
 This Project is about to used in real life where the shopping site is lived.
 here i am created a 3 pages like <i>index.html, product.html, productDetail.html</i>
 
